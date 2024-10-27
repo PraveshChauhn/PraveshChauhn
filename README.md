@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Data Cleaning , Data manipulation and visualization<br>🌱 I’m currently learning Machine Learning<br>🎯 I'm a Hustler<br>🎲 Fun fact: From Science to Data Science: A curious mind exploring the intersection of numbers and technology</p>
+<p align="left">🔭 I’m currently working on Data Cleaning , Data manipulation and visualization<br>🌱 I’m currently learning Machine Learning<br>🎯 I'm a Hustler in Nature<br>🎲 Fun fact: From Science to Data Science: A curious mind exploring the intersection of numbers and technology</p>
 
 ###
 
