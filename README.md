@@ -19,11 +19,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Python/Python-original.svg" height="40" alt="Python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Python/Python-original.svg" height="40" alt="Python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg" height="40" alt="R logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/R/R-original.svg" height="40" alt="R"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQL/MySQL.svg" height="40" alt="MySQL logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQL/MySQL.svg" height="40" alt="MySQL"  />
   <img width="12" />
 </div>
 
