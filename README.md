@@ -1,5 +1,5 @@
 # 💫 About Me:
-##About Me<br><br>: Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.<br><br>: Skilled in SQL, Power BI, Excel, Tableau and Python for data analysis and visualization.<br><br>: Exploring Machine Learning and Generative AI applications in business analytics.<br><br>: Former Graphic Designer bringing creativity into data storytelling.<br><br>: BBA in Data Science from Amity University.<br><br>: Currently building end-to-end analytics and machine learning projects.
+<br><br>: Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.<br><br>: Skilled in SQL, Power BI, Excel, Tableau and Python for data analysis and visualization.<br><br>: Exploring Machine Learning and Generative AI applications in business analytics.<br><br>: Former Graphic Designer bringing creativity into data storytelling.<br><br>: BBA in Data Science from Amity University.<br><br>: Currently building end-to-end analytics and machine learning projects.
 
 
 ## 🌐 Socials:
